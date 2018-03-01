@@ -1,0 +1,7 @@
+# SSH for pushing Git in R to Github 
+git remote add origin https://github.com/CharleenAdams/PACE_Descriptives.git
+git config remote.origin.url 
+git@github.com:CharleenAdams/PACE_Descriptives.git
+
+git pull -u origin master
+git push -u origin master
