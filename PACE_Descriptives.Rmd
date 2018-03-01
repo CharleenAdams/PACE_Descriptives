@@ -2,7 +2,9 @@
 title: "Descriptives"
 author: "Charleen D. Adams"
 date: "March 1, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r}
